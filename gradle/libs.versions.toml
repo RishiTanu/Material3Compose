@@ -21,6 +21,7 @@ lifecycleRuntimeKtxVersion = "2.3.1"
 lifecycleViewmodelKtxVersion = "2.3.1"
 loggingInterceptor = "5.0.0-alpha.2"
 material = "1.9.1 "
+material3WindowSizeClass = "1.2.1"
 okhttp = "5.0.0-alpha.2"
 retrofit = "2.9.0"
 room = "2.6.1"
@@ -31,6 +32,7 @@ androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = 
 androidx-lifecycle-runtime-ktx-v231 = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtxVersion" }
 androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtxVersion" }
 androidx-material = { module = "androidx.compose.material:material", version.ref = "material" }
+androidx-material3-window-size = { module = "androidx.compose.material3:material3-window-size-class", version.ref = "material3WindowSizeClass" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
 jetbrains-kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinxCoroutinesCoreVersion" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }

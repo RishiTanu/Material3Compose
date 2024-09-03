@@ -95,4 +95,7 @@ dependencies {
     //kotlin extensions and coroutine support for room
     implementation (libs.room.ktx)
     kapt (libs.room.compiler)
+
+    //calculate screen size
+    implementation(libs.androidx.material3.window.size)
 }
